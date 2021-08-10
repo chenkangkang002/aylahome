@@ -1,0 +1,162 @@
+{
+  "ce239cd8c1de5e38edeeb1fbbdb7778a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad6abdddb842b685",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/ad6abdddb842b685",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404305,
+        "stop" : 1621752404305,
+        "duration" : 0
+      }
+    } ]
+  },
+  "24c62bcddcd101ecab0a45072a8c3c89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d75635bfb906d624",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/d75635bfb906d624",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404332,
+        "stop" : 1621752404333,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ed0cd172073ce0bb955c991ce1454e6e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6c7bcdef649ced8",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/b6c7bcdef649ced8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404295,
+        "stop" : 1621752404295,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cf129a46ce7dfd6cd7266227adf6c477" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c07b77def35ceaac",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/c07b77def35ceaac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404317,
+        "stop" : 1621752404317,
+        "duration" : 0
+      }
+    } ]
+  },
+  "79ba4c5cf54b5cb7255382a61959f99f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2b46b75fa3b6ecd",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/e2b46b75fa3b6ecd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404322,
+        "stop" : 1621752404322,
+        "duration" : 0
+      }
+    } ]
+  },
+  "25442b6270bf6370d6ba038f6e0a629f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a76f2e138a1fda6",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/4a76f2e138a1fda6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404327,
+        "stop" : 1621752404328,
+        "duration" : 1
+      }
+    } ]
+  },
+  "47d7e5bb35a625c4747ff9da2d59b66f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f76f30b9cd0fe3c",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/5f76f30b9cd0fe3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404300,
+        "stop" : 1621752404300,
+        "duration" : 0
+      }
+    } ]
+  },
+  "981989d107a543841e55aafd7a7ed8ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d7cd41f2e94833f",
+      "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure/#testresult/5d7cd41f2e94833f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621752404313,
+        "stop" : 1621752404313,
+        "duration" : 0
+      }
+    } ]
+  }
+}

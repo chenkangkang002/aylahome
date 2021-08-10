@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_h5",
+      "children" : [ {
+        "name" : "TestH5",
+        "children" : [ {
+          "name" : "test_h5[deviceData0]",
+          "uid" : "51c00a6a7d974db8",
+          "parentUid" : "813c62745c9f956e459f41c7ada48b75",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1627316204723,
+            "stop" : 1627316204723,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'cuId': 0, 'deviceId': 'VR00ZN000030482', 'deviceCategory': 'ZB-NODE-TS0-001', 'deviceName': '罗马水空调面板（四管制）', 'nickname': '罗马水空调面板', 'deviceStatus': 'ONLINE', 'scopeId': 1326781798973382690, 'nodeType': None, 'deviceUseType': 0, 'firmwareVersion': None, 'metadata': {}, 'deviceTypeId': None, 'connectTypeId': 1, 'iconUrl': 'http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/023_luomashuikongtiaomianban(siguanzhi).png', 'isPurposeDevice': 0, 'hasH5': 1, 'purposeName': None, 'pid': 'ZBACP-A000001', 'productType': 2, 'isNeedGateway': 1, 'roomName': '测试房间', 'productModel': 'AZB-ACP-005(A)'}" ]
+        } ],
+        "uid" : "813c62745c9f956e459f41c7ada48b75"
+      } ],
+      "uid" : "7759bff5b2aab5712a72a6cdda8c19d1"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

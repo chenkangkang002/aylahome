@@ -1,0 +1,23 @@
+[ {
+  "data" : { }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/17/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/16/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/15/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://localhost:9999/job/auto_allure_jenkins/14/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

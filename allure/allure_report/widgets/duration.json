@@ -1,0 +1,11 @@
+[ {
+  "uid" : "51c00a6a7d974db8",
+  "name" : "test_h5[deviceData0]",
+  "time" : {
+    "start" : 1627316204723,
+    "stop" : 1627316204723,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
